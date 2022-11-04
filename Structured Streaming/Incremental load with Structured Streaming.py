@@ -13,7 +13,6 @@
 import pyspark.sql.functions as f
 
 # Define constants
-s3_path = 's3://databricks-e2demofieldengwest/chiayui_lee_sandbox/retail_raw'
 s3_path = 's3://path_to_s3_location/retail_raw'
 
 # COMMAND ----------

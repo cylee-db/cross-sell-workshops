@@ -40,4 +40,4 @@ print(sql)
 
 # Execute with Spark SQL
 
-spark.sql(sqlFile)
+spark.sql(sql)
