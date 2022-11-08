@@ -11,7 +11,7 @@
 
 # Initialize widgets to set parameters of Repo path to queries folder and SQL query files
 
-dbutils.widgets.text('repo_path', '/Workspace/Repos/chiayui.lee@databricks.com/cross-sell/queries/')
+dbutils.widgets.text('repo_path', '/Workspace/Repos/chiayui.lee@databricks.com/cross-sell-workshops/Pipeline example 2/queries/')
 dbutils.widgets.text('sql_file', 'users_bronze.sql')
 
 # COMMAND ----------
